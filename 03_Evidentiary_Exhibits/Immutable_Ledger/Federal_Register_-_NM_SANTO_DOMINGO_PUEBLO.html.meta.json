@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=NM+SANTO+DOMINGO+PUEBLO",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=NM+SANTO+DOMINGO+PUEBLO",
+  "title": "Federal Register - NM SANTO DOMINGO PUEBLO",
+  "fetched_at": "2026-11-23T18:15:01.930459Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 320423,
+  "sha256": "86ce1ad9954d7e4c213a8fa8d3a704dce6c718cbbcbca4e9b4981acd39b7bcb5",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
